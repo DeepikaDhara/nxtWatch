@@ -28,5 +28,4 @@ const GamingVideoItem = props => {
     </ThemeContext.Consumer>
   )
 }
-
 export default GamingVideoItem

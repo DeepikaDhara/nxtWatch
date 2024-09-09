@@ -14,3 +14,4 @@ export const ViewCount = styled.p`
   color: #616e7c;
   margin-right: 15px;
 `
+
